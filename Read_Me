@@ -1,0 +1,2 @@
+The University Acceptance Determiner is a machine learning-based tool. It uses information provided by the user, such as their CGPA, GRE scores, TOEFL scores etc, to determine the likelihood of their acceptance into a particular university.It uses the Random Forest algorithm to predict the outcome of enrolment to around 93% accuracy.
+The tool can be used by students and their parents to help make informed decisions about where to apply to college.
